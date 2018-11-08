@@ -1,0 +1,15 @@
+name: jjdepaul-nginx
+version: 0+dev.1541701086
+commit_hash: 552afa3
+uncommitted_changes: true
+jobs:
+- name: nginx
+  version: ddfa49a2039d36bda9cec7df22a1b87c9a23285b
+  fingerprint: ddfa49a2039d36bda9cec7df22a1b87c9a23285b
+  sha1: 5b49c8cd176dcd2ba2af147a5ca35ef23c21eea5
+packages:
+- name: nginx
+  version: db883a8ce5d8b4a8921fa300f657413d3031fb1a
+  fingerprint: db883a8ce5d8b4a8921fa300f657413d3031fb1a
+  sha1: 9b43e307fb45b21155c229a2a64ae615289e6af6
+  dependencies: []
