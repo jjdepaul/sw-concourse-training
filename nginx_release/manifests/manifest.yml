@@ -20,8 +20,8 @@ meta:
   target: training
   url: https://pipes.starkandwayne.com
 name: jjdepaul-nginx
-release:
-  name: jjdepaul-nginx
+releases:
+- name: nginx
   version: latest
 stemcells:
 - alias: default
