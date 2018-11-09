@@ -20,9 +20,8 @@ meta:
   target: training
   url: https://pipes.starkandwayne.com
 name: jjdepaul-nginx
-releases:
+release:
 - name: nginx
-  version: latest
 stemcells:
 - alias: default
   os: ubuntu-trusty
