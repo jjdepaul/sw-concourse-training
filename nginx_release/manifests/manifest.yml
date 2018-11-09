@@ -8,7 +8,7 @@ instance_groups:
   instances: 1
   jobs:
   - name: nginx
-    release: nginx
+    release: nginx_jjd
   name: nginx
   networks:
   - name: default
@@ -21,7 +21,7 @@ meta:
   url: https://pipes.starkandwayne.com
 name: jjdepaul-nginx
 release:
-  name: nginx
+  name: nginx_jjd
   version: latest
 stemcells:
 - alias: default
