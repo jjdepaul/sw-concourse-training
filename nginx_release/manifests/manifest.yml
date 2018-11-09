@@ -5,7 +5,7 @@ github:
 instance_groups:
 - azs:
   - z1
-  instances: 1
+  instances: 5
   jobs:
   - name: nginx
     release: nginx_jjd
