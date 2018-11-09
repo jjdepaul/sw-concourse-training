@@ -37,5 +37,5 @@ resources:
   source:
     filename: training-bosh.pem
     url: https://s3.us-east-2.amazonaws.com/dg-training-concourse/training-bosh.pem
-  type: file-url
+    type: file-url
 
