@@ -22,6 +22,7 @@ meta:
 name: jjdepaul-nginx
 release:
 - name: nginx
+  version: latest
 stemcells:
 - alias: default
   os: ubuntu-trusty
