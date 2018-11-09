@@ -27,5 +27,5 @@ resources:
 - name: cert-file
   type: file-url
   source:
-    url: https://unreal-snw.s3.amazonaws.com/training-bosh.pem
+    url: https://s3.us-east-2.amazonaws.com/dg-training-concourse/training-bosh.pem
     filename: training-bosh.pem
